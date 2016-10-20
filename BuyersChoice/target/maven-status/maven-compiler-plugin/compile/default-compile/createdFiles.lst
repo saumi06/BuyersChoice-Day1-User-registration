@@ -1,0 +1,4 @@
+com\buyerschoice\model\User.class
+com\buyerschoice\dao\UserDao.class
+com\buyerschoice\controller\UserController.class
+com\buyerschoice\model\UserCredentials.class
